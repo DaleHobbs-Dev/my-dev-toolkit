@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "config": {
+    "understandingChecks": false
+  },
+  "docs": [
+    {
+      "path": "docs/ssh_key_github_guide.md",
+      "scope": "general",
+      "purpose": "Step-by-step guide for generating SSH keys and connecting a local machine to GitHub, including Windows-specific instructions.",
+      "tags": ["guide", "setup", "git", "github"]
+    }
+  ]
+}
