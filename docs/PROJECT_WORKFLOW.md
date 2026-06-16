@@ -2,7 +2,7 @@
 
 ## Team Members
 
-* Member 1
+* Dale Hobbs | [@DaleHobbs-Dev](https://github.com/DaleHobbs-Dev)
 * Member 2
 * Member 3
 * Member 4
